@@ -2,6 +2,8 @@
 
 This repository provides a **Next.js** web app for collecting patient and insurance data, then sending that data to the [Develop Health](https://api.develophealth.io) benefit-verification endpoint **on the server side**. It uses **Tailwind CSS** for styling and **Formidable** to handle file uploads (front/back of insurance cards). By calling the external API on the server, we ensure that sensitive tokens and credentials are never exposed in client-side code.
 
+![form](/screenshot.png)
+
 ## Table of Contents
 
 - [Features](#features)
